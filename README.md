@@ -1,2 +1,8 @@
 # pokemon
-shitty pokemon game
+Turn-based Pokemon game built entirely in Python. 
+Features include:
+- Potions
+- Pokemon types and levels
+- Criticial hits
+- All first generation pokemon
+_ Choose a team and battle a bot using a random team
