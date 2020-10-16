@@ -5,4 +5,4 @@ Features include:
 - Pokemon types and levels
 - Criticial hits
 - All first generation pokemon
-_ Choose a team and battle a bot using a random team
+- Choose a team and battle a bot using a random team
