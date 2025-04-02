@@ -230,7 +230,7 @@ for pkmn in pokedex.items():
     MyPokemon.append(nayme)
     BotPokemon.append(nayme)
 
-BotNames = ['BOT Epstein', 'BOT Jasper', 'BOT Shrek', 'BOT Karen']
+BotNames = ['BOT Jasper', 'BOT Shrek', 'BOT Karen']
 
 """ I N T R O """
 
